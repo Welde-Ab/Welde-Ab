@@ -1,8 +1,8 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Menilk 👋
 
 ## About Me
 
-I'm a [Your Profession/Role], currently diving deep into [Your Field/Technology of Interest]. I love exploring the intersection between technology and [Other Fields of Interest], and I'm passionate about using my skills to solve real-world problems. When I'm not coding or tinkering with tech, you might find me [Your Hobbies or Activities], or sharing insights and learnings on [Your Blog/Social Media].
+I'm a robotics and automation enthusiast, currently diving deep into computer vision and machine learning. I love exploring the intersection between technology and day-to-day life, and I'm passionate about using my skills to solve real-world problems. You might find me running when I'm not coding or tinkering with tech.
 
 ### 🌱 What I'm currently learning
 
@@ -11,10 +11,10 @@ I'm a [Your Profession/Role], currently diving deep into [Your Field/Technology 
 
 ### 💼 Where I've worked
 
-- **[Company Name]** - [Your Role] *(Month Year - Month Year)*
-  - Brief description of what you did, technologies used, or projects contributed to.
+- **The University of Tokyo** - Research Student *(APRIL 2022 - MARCH 2024)*
+  - Briefly describe what you did, what technologies used, or what projects contributed to.
 - **[Another Company Name]** - [Your Role] *(Month Year - Month Year)*
-  - Brief description of what you did, technologies used, or projects contributed to.
+  - Briefly describe what you did, what technologies used, or what projects contributed to.
 
 ### 🛠️ Skills and Tools
 
@@ -25,9 +25,8 @@ I'm a [Your Profession/Role], currently diving deep into [Your Field/Technology 
 
 ### 📫 How to reach me
 
-- **Email**: [Your Email]
+- **Email**: meneliksahalu@gmail.com
 - **LinkedIn**: [LinkedIn Profile URL]
-- **Twitter**: [Twitter Handle]
 - **Blog**: [Your Blog URL]
 
 ## Projects
@@ -43,4 +42,4 @@ Here are a few projects I've worked on:
 - One of my favorite books is [Book Name] by [Author].
 - I'm always looking for tips on [Something You Want to Improve or Learn].
 
-Thank you for visiting my GitHub profile! Feel free to reach out if you're interested in collaborating on a project or if you share similar interests.
+Thank you for visiting my GitHub profile! Feel free to let me know if you're interested in collaborating on a project or if you share similar interests.
